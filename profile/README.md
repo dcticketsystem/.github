@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2cc63aa-4ae4-419d-badf-7249a923db4e" alt="Ticket System Icon" width="100" />
-</p>
-
-<h1 align="center">Ticket System</h1>
-
 <p>
 Ticket System is a public Discord bot designed to help users easily reach out to the server team. What makes it different from other ticket bots is that it uses threads instead of channels. This allows it to use unique features and mechanics that aren't possible in normal text channels.
 </p>
